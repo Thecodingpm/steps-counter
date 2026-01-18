@@ -349,12 +349,11 @@ This project is created as a personal app. Use freely for personal or educationa
 
 ## Acknowledgments
 
-- Built with ❤️ for fathers (Abbu)
 - Uses MPAndroidChart for beautiful visualizations
 - Follows Android Material Design guidelines
 - Compatible with Samsung Health ecosystem
 
 ---
 
-**Made with ❤️ by my son**
+
 
