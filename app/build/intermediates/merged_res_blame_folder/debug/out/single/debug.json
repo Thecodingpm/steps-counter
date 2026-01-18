@@ -1,0 +1,154 @@
+[
+    {
+        "merged": "com.abbusteps.app-merged_res-57:/drawable_ic_play.xml.flat",
+        "source": "com.abbusteps.app-main-59:/drawable/ic_play.xml"
+    },
+    {
+        "merged": "com.abbusteps.app-merged_res-57:/drawable_ic_distance.xml.flat",
+        "source": "com.abbusteps.app-main-59:/drawable/ic_distance.xml"
+    },
+    {
+        "merged": "com.abbusteps.app-merged_res-57:/drawable_ic_more.xml.flat",
+        "source": "com.abbusteps.app-main-59:/drawable/ic_more.xml"
+    },
+    {
+        "merged": "com.abbusteps.app-merged_res-57:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.abbusteps.app-main-59:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.abbusteps.app-merged_res-57:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.abbusteps.app-main-59:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.abbusteps.app-merged_res-57:/layout_activity_main.xml.flat",
+        "source": "com.abbusteps.app-main-59:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.abbusteps.app-merged_res-57:/layout_bottom_sheet_menu.xml.flat",
+        "source": "com.abbusteps.app-main-59:/layout/bottom_sheet_menu.xml"
+    },
+    {
+        "merged": "com.abbusteps.app-merged_res-57:/layout_fragment_history.xml.flat",
+        "source": "com.abbusteps.app-main-59:/layout/fragment_history.xml"
+    },
+    {
+        "merged": "com.abbusteps.app-merged_res-57:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.abbusteps.app-main-59:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.abbusteps.app-merged_res-57:/drawable_bg_day_circle_empty.xml.flat",
+        "source": "com.abbusteps.app-main-59:/drawable/bg_day_circle_empty.xml"
+    },
+    {
+        "merged": "com.abbusteps.app-merged_res-57:/drawable_ic_power.xml.flat",
+        "source": "com.abbusteps.app-main-59:/drawable/ic_power.xml"
+    },
+    {
+        "merged": "com.abbusteps.app-merged_res-57:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.abbusteps.app-main-59:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.abbusteps.app-merged_res-57:/layout_fragment_settings.xml.flat",
+        "source": "com.abbusteps.app-main-59:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "com.abbusteps.app-merged_res-57:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.abbusteps.app-main-59:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.abbusteps.app-merged_res-57:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.abbusteps.app-main-59:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.abbusteps.app-merged_res-57:/drawable_bg_paused_badge.xml.flat",
+        "source": "com.abbusteps.app-main-59:/drawable/bg_paused_badge.xml"
+    },
+    {
+        "merged": "com.abbusteps.app-merged_res-57:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.abbusteps.app-main-59:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.abbusteps.app-merged_res-57:/drawable_ic_help.xml.flat",
+        "source": "com.abbusteps.app-main-59:/drawable/ic_help.xml"
+    },
+    {
+        "merged": "com.abbusteps.app-merged_res-57:/drawable_bg_day_circle_today.xml.flat",
+        "source": "com.abbusteps.app-main-59:/drawable/bg_day_circle_today.xml"
+    },
+    {
+        "merged": "com.abbusteps.app-merged_res-57:/drawable_ic_edit.xml.flat",
+        "source": "com.abbusteps.app-main-59:/drawable/ic_edit.xml"
+    },
+    {
+        "merged": "com.abbusteps.app-merged_res-57:/layout_preview_home.xml.flat",
+        "source": "com.abbusteps.app-main-59:/layout/preview_home.xml"
+    },
+    {
+        "merged": "com.abbusteps.app-merged_res-57:/drawable_ic_delete.xml.flat",
+        "source": "com.abbusteps.app-main-59:/drawable/ic_delete.xml"
+    },
+    {
+        "merged": "com.abbusteps.app-merged_res-57:/drawable_ic_close.xml.flat",
+        "source": "com.abbusteps.app-main-59:/drawable/ic_close.xml"
+    },
+    {
+        "merged": "com.abbusteps.app-merged_res-57:/drawable_bg_graph_bar_active.xml.flat",
+        "source": "com.abbusteps.app-main-59:/drawable/bg_graph_bar_active.xml"
+    },
+    {
+        "merged": "com.abbusteps.app-merged_res-57:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.abbusteps.app-main-59:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.abbusteps.app-merged_res-57:/layout_fragment_home.xml.flat",
+        "source": "com.abbusteps.app-main-59:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.abbusteps.app-merged_res-57:/layout_fragment_history_monthly.xml.flat",
+        "source": "com.abbusteps.app-main-59:/layout/fragment_history_monthly.xml"
+    },
+    {
+        "merged": "com.abbusteps.app-merged_res-57:/layout_fragment_history_weekly.xml.flat",
+        "source": "com.abbusteps.app-main-59:/layout/fragment_history_weekly.xml"
+    },
+    {
+        "merged": "com.abbusteps.app-merged_res-57:/drawable_bg_graph_bar.xml.flat",
+        "source": "com.abbusteps.app-main-59:/drawable/bg_graph_bar.xml"
+    },
+    {
+        "merged": "com.abbusteps.app-merged_res-57:/drawable_bg_dot_orange.xml.flat",
+        "source": "com.abbusteps.app-main-59:/drawable/bg_dot_orange.xml"
+    },
+    {
+        "merged": "com.abbusteps.app-merged_res-57:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.abbusteps.app-main-59:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.abbusteps.app-merged_res-57:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.abbusteps.app-main-59:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.abbusteps.app-merged_res-57:/drawable_ic_time.xml.flat",
+        "source": "com.abbusteps.app-main-59:/drawable/ic_time.xml"
+    },
+    {
+        "merged": "com.abbusteps.app-merged_res-57:/drawable_ic_pause.xml.flat",
+        "source": "com.abbusteps.app-main-59:/drawable/ic_pause.xml"
+    },
+    {
+        "merged": "com.abbusteps.app-merged_res-57:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.abbusteps.app-main-59:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.abbusteps.app-merged_res-57:/drawable_ic_calories.xml.flat",
+        "source": "com.abbusteps.app-main-59:/drawable/ic_calories.xml"
+    },
+    {
+        "merged": "com.abbusteps.app-merged_res-57:/drawable_ic_chevron_right.xml.flat",
+        "source": "com.abbusteps.app-main-59:/drawable/ic_chevron_right.xml"
+    },
+    {
+        "merged": "com.abbusteps.app-merged_res-57:/drawable_ic_notification.xml.flat",
+        "source": "com.abbusteps.app-main-59:/drawable/ic_notification.xml"
+    }
+]

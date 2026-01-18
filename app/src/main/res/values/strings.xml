@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Step Counter</string>
+    
+    <!-- Home Screen -->
+    <string name="today">Today</string>
+    <string name="paused">Paused</string>
+    <string name="pause_resume">Pause/Resume</string>
+    <string name="menu">Menu</string>
+    <string name="daily_average_format">Daily average: %1$d</string>
+    <string name="report">Report</string>
+    <string name="detail">Detail</string>
+    <string name="exercise">Exercise</string>
+    <string name="steps">steps</string>
+    <string name="km">Km</string>
+    <string name="mile">Mile</string>
+    <string name="kcal">Kcal</string>
+    <string name="min_label">Min</string>
+    <string name="time">Time</string>
+    
+    <!-- History Screen -->
+    <string name="history">History</string>
+    <string name="weekly_report">Weekly Report</string>
+    <string name="weekly">Weekly</string>
+    <string name="monthly">Monthly</string>
+    <string name="goal_label">Goal</string>
+    <string name="steps_left_format">%,d steps left to reach your goal</string>
+    <string name="goal_reached">🎉 Goal reached! Great job!</string>
+    <string name="today_stats">Today\'s Stats</string>
+    <string name="no_data_available">No data available</string>
+    
+    <!-- Settings Screen -->
+    <string name="settings">Settings</string>
+    <string name="daily_goal">Daily Goal</string>
+    <string name="daily_goal_settings">Daily Step Goal</string>
+    <string name="daily_goal_description">Set your daily step goal</string>
+    <string name="enable_reminders">Enable Reminders</string>
+    <string name="reminder_description">Get gentle reminders to stay active</string>
+    <string name="theme">Theme</string>
+    <string name="light_theme">Light</string>
+    <string name="dark_theme">Dark</string>
+    <string name="system_default">System Default</string>
+    <string name="about">About</string>
+    <string name="about_description">Made with ❤️</string>
+    <string name="version">Version %1$s</string>
+    
+    <!-- Permissions -->
+    <string name="permission_required">Permission Required</string>
+    <string name="activity_recognition_permission_message">Step Counter needs permission to count your steps. Please grant the permission.</string>
+    <string name="grant_permission">Grant Permission</string>
+    <string name="cancel">Cancel</string>
+    
+    <!-- Notifications -->
+    <string name="step_counter_running">Counting your steps...</string>
+    <string name="service_notification_channel">Step Counter</string>
+    
+    <!-- Legacy compatibility -->
+    <string name="today_steps">Today\'s Steps</string>
+    <string name="distance_walked">Distance</string>
+    <string name="calories_burned">Calories</string>
+    
+    <!-- Graph -->
+    <string name="daily_activity">Daily Activity</string>
+    <string name="active">Active</string>
+    <string name="inactive">Inactive</string>
+    
+    <!-- Menu -->
+    <string name="more">More</string>
+    <string name="close">Close</string>
+    <string name="reset_steps">Reset steps</string>
+    <string name="edit_steps">Edit steps</string>
+    <string name="turn_off">Turn off</string>
+    <string name="faq">FAQ</string>
+    <string name="reset_confirm">Are you sure you want to reset today\'s steps to 0?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="enter_steps">Enter step count</string>
+</resources>

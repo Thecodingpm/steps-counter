@@ -1,0 +1,60 @@
+com.abbusteps.app-lifecycle-viewmodel-ktx-2.7.0-0 /Users/ahmadmuaaz/.gradle/caches/transforms-3/051689cba1a42af44104faa25f6c4467/transformed/lifecycle-viewmodel-ktx-2.7.0/res
+com.abbusteps.app-material-1.11.0-1 /Users/ahmadmuaaz/.gradle/caches/transforms-3/0911d117310a1c9fc77955e99c292c07/transformed/material-1.11.0/res
+com.abbusteps.app-viewpager2-1.0.0-2 /Users/ahmadmuaaz/.gradle/caches/transforms-3/0a08eb3c3bd2a98eb020a4cbc72801dc/transformed/viewpager2-1.0.0/res
+com.abbusteps.app-slidingpanelayout-1.2.0-3 /Users/ahmadmuaaz/.gradle/caches/transforms-3/0e11e3df6341820c2626b39effc5907c/transformed/slidingpanelayout-1.2.0/res
+com.abbusteps.app-lifecycle-livedata-2.7.0-4 /Users/ahmadmuaaz/.gradle/caches/transforms-3/10c26df9bf74485d6de917a9888692f0/transformed/lifecycle-livedata-2.7.0/res
+com.abbusteps.app-cardview-1.0.0-5 /Users/ahmadmuaaz/.gradle/caches/transforms-3/13710fd7feea9e69e2abbd3b3b866492/transformed/cardview-1.0.0/res
+com.abbusteps.app-transition-1.4.1-6 /Users/ahmadmuaaz/.gradle/caches/transforms-3/1394a6d9b30090aac1d2a36b6ed57ee8/transformed/transition-1.4.1/res
+com.abbusteps.app-datastore-1.0.0-7 /Users/ahmadmuaaz/.gradle/caches/transforms-3/13e5dff2f6c4c766bf26c209a48d77d3/transformed/datastore-1.0.0/res
+com.abbusteps.app-activity-ktx-1.8.0-8 /Users/ahmadmuaaz/.gradle/caches/transforms-3/1c6a66e2b1e7c8491792ed2015c2a64c/transformed/activity-ktx-1.8.0/res
+com.abbusteps.app-emoji2-1.2.0-9 /Users/ahmadmuaaz/.gradle/caches/transforms-3/1e813655ffdfd31673408563a57a86b7/transformed/emoji2-1.2.0/res
+com.abbusteps.app-navigation-runtime-ktx-2.7.6-10 /Users/ahmadmuaaz/.gradle/caches/transforms-3/209a0f88bdceec86a69a07faee48aab7/transformed/navigation-runtime-ktx-2.7.6/res
+com.abbusteps.app-core-runtime-2.2.0-11 /Users/ahmadmuaaz/.gradle/caches/transforms-3/22129e2f9cb039edbe390d9f52144c97/transformed/core-runtime-2.2.0/res
+com.abbusteps.app-profileinstaller-1.3.0-12 /Users/ahmadmuaaz/.gradle/caches/transforms-3/2589b19b8e6a297e3d4989675197a625/transformed/profileinstaller-1.3.0/res
+com.abbusteps.app-lifecycle-runtime-2.7.0-13 /Users/ahmadmuaaz/.gradle/caches/transforms-3/2b0e81740f590d576078da0928391c64/transformed/lifecycle-runtime-2.7.0/res
+com.abbusteps.app-core-ktx-1.12.0-14 /Users/ahmadmuaaz/.gradle/caches/transforms-3/2c4cb9ac468dc9f1c1729dfefd41fec2/transformed/core-ktx-1.12.0/res
+com.abbusteps.app-work-runtime-ktx-2.9.0-15 /Users/ahmadmuaaz/.gradle/caches/transforms-3/2d8d3809b6b37795c86f6a147d8ebc1a/transformed/work-runtime-ktx-2.9.0/res
+com.abbusteps.app-room-runtime-2.6.1-16 /Users/ahmadmuaaz/.gradle/caches/transforms-3/37207bb63cc4c63836cfcf8237861212/transformed/room-runtime-2.6.1/res
+com.abbusteps.app-annotation-experimental-1.3.0-17 /Users/ahmadmuaaz/.gradle/caches/transforms-3/414ac2d8f67d60d33c67d23fc5cdea1a/transformed/annotation-experimental-1.3.0/res
+com.abbusteps.app-savedstate-ktx-1.2.1-18 /Users/ahmadmuaaz/.gradle/caches/transforms-3/52dbe2b5b0288fbe51dc1485dffcf78b/transformed/savedstate-ktx-1.2.1/res
+com.abbusteps.app-window-1.0.0-19 /Users/ahmadmuaaz/.gradle/caches/transforms-3/548a8e5aac4f204ba233410db0bb00c2/transformed/window-1.0.0/res
+com.abbusteps.app-recyclerview-1.1.0-20 /Users/ahmadmuaaz/.gradle/caches/transforms-3/5f22e6ba73a0ed0c370a62a76ae75055/transformed/recyclerview-1.1.0/res
+com.abbusteps.app-savedstate-1.2.1-21 /Users/ahmadmuaaz/.gradle/caches/transforms-3/70bf8b6e3418bac8ee1dde332f39a10c/transformed/savedstate-1.2.1/res
+com.abbusteps.app-coordinatorlayout-1.1.0-22 /Users/ahmadmuaaz/.gradle/caches/transforms-3/722347355df5ceb120b26646d9cc8ec2/transformed/coordinatorlayout-1.1.0/res
+com.abbusteps.app-lifecycle-livedata-core-2.7.0-23 /Users/ahmadmuaaz/.gradle/caches/transforms-3/7481c8619d06f3890d11460de22d28b8/transformed/lifecycle-livedata-core-2.7.0/res
+com.abbusteps.app-fragment-1.6.2-24 /Users/ahmadmuaaz/.gradle/caches/transforms-3/7762cd431965d02474d617dabbde28d8/transformed/fragment-1.6.2/res
+com.abbusteps.app-navigation-fragment-2.7.6-25 /Users/ahmadmuaaz/.gradle/caches/transforms-3/8296a22ba24c24b2a376526523d8ca1f/transformed/navigation-fragment-2.7.6/res
+com.abbusteps.app-appcompat-resources-1.6.1-26 /Users/ahmadmuaaz/.gradle/caches/transforms-3/8704d1a3f3acc1733bd564647fc89ab6/transformed/appcompat-resources-1.6.1/res
+com.abbusteps.app-lifecycle-process-2.7.0-27 /Users/ahmadmuaaz/.gradle/caches/transforms-3/87d40f152efd8e3cf8c37dbc54f99754/transformed/lifecycle-process-2.7.0/res
+com.abbusteps.app-lifecycle-viewmodel-savedstate-2.7.0-28 /Users/ahmadmuaaz/.gradle/caches/transforms-3/8d2ff8c2a111add350e419691283eafe/transformed/lifecycle-viewmodel-savedstate-2.7.0/res
+com.abbusteps.app-emoji2-views-helper-1.2.0-29 /Users/ahmadmuaaz/.gradle/caches/transforms-3/91de4b5acce64ea00a525892fe6f1fca/transformed/emoji2-views-helper-1.2.0/res
+com.abbusteps.app-navigation-common-ktx-2.7.6-30 /Users/ahmadmuaaz/.gradle/caches/transforms-3/934dcd0bdf2ca67ffad05d60a4492bd0/transformed/navigation-common-ktx-2.7.6/res
+com.abbusteps.app-navigation-fragment-ktx-2.7.6-31 /Users/ahmadmuaaz/.gradle/caches/transforms-3/97051cdf2f1fbdabcf18afe72b8fe48c/transformed/navigation-fragment-ktx-2.7.6/res
+com.abbusteps.app-core-1.12.0-32 /Users/ahmadmuaaz/.gradle/caches/transforms-3/97415b8e2c2b19b88cea32d17b874052/transformed/core-1.12.0/res
+com.abbusteps.app-activity-1.8.0-33 /Users/ahmadmuaaz/.gradle/caches/transforms-3/a12585e827f9550c4a1a007cb2c50735/transformed/activity-1.8.0/res
+com.abbusteps.app-lifecycle-service-2.7.0-34 /Users/ahmadmuaaz/.gradle/caches/transforms-3/a574c48ee3268ef14f7e707431ad4c19/transformed/lifecycle-service-2.7.0/res
+com.abbusteps.app-lifecycle-livedata-ktx-2.7.0-35 /Users/ahmadmuaaz/.gradle/caches/transforms-3/a80e115131ddba8a31f5ae22c6169089/transformed/lifecycle-livedata-ktx-2.7.0/res
+com.abbusteps.app-datastore-preferences-1.0.0-36 /Users/ahmadmuaaz/.gradle/caches/transforms-3/ad00d3256e19d93b4997c490ce8ef222/transformed/datastore-preferences-1.0.0/res
+com.abbusteps.app-sqlite-2.4.0-37 /Users/ahmadmuaaz/.gradle/caches/transforms-3/b036a1cc0bccff2f98bd44187c49c6b4/transformed/sqlite-2.4.0/res
+com.abbusteps.app-navigation-runtime-2.7.6-38 /Users/ahmadmuaaz/.gradle/caches/transforms-3/c0eb8130e41ff9a2632edede6aef37a7/transformed/navigation-runtime-2.7.6/res
+com.abbusteps.app-constraintlayout-2.1.4-39 /Users/ahmadmuaaz/.gradle/caches/transforms-3/c62e9b46e9e4e0bcd13fce991f66fb17/transformed/constraintlayout-2.1.4/res
+com.abbusteps.app-sqlite-framework-2.4.0-40 /Users/ahmadmuaaz/.gradle/caches/transforms-3/cfba8abfea55c8365bd9e3a3fe952094/transformed/sqlite-framework-2.4.0/res
+com.abbusteps.app-navigation-ui-2.7.6-41 /Users/ahmadmuaaz/.gradle/caches/transforms-3/d204bfd5d3dcad533e6aeb07aa21f05a/transformed/navigation-ui-2.7.6/res
+com.abbusteps.app-appcompat-1.6.1-42 /Users/ahmadmuaaz/.gradle/caches/transforms-3/d219056562254d5f48577226afcb14b6/transformed/appcompat-1.6.1/res
+com.abbusteps.app-navigation-common-2.7.6-43 /Users/ahmadmuaaz/.gradle/caches/transforms-3/e21705c4e3e8de65516959be00ee5ee2/transformed/navigation-common-2.7.6/res
+com.abbusteps.app-navigation-ui-ktx-2.7.6-44 /Users/ahmadmuaaz/.gradle/caches/transforms-3/ec52c2f8318c363c967a7199a7a048ff/transformed/navigation-ui-ktx-2.7.6/res
+com.abbusteps.app-room-ktx-2.6.1-45 /Users/ahmadmuaaz/.gradle/caches/transforms-3/ec58ff48bfb328a70e6975780a38d33b/transformed/room-ktx-2.6.1/res
+com.abbusteps.app-drawerlayout-1.1.1-46 /Users/ahmadmuaaz/.gradle/caches/transforms-3/ed6771cb5a2c9f92471e06fa5ad9465b/transformed/drawerlayout-1.1.1/res
+com.abbusteps.app-fragment-ktx-1.6.2-47 /Users/ahmadmuaaz/.gradle/caches/transforms-3/eef7ebf43b0dd99e5a1b836a58918dd9/transformed/fragment-ktx-1.6.2/res
+com.abbusteps.app-startup-runtime-1.1.1-48 /Users/ahmadmuaaz/.gradle/caches/transforms-3/ef07e66c24e74e34b9917dffd14f996e/transformed/startup-runtime-1.1.1/res
+com.abbusteps.app-work-runtime-2.9.0-49 /Users/ahmadmuaaz/.gradle/caches/transforms-3/f6378432f9c7eeae8931b3c666684e10/transformed/work-runtime-2.9.0/res
+com.abbusteps.app-lifecycle-livedata-core-ktx-2.7.0-50 /Users/ahmadmuaaz/.gradle/caches/transforms-3/f959e660b2fa178b5edf16cf01eabbe6/transformed/lifecycle-livedata-core-ktx-2.7.0/res
+com.abbusteps.app-lifecycle-viewmodel-2.7.0-51 /Users/ahmadmuaaz/.gradle/caches/transforms-3/fa96fcecef67f0f0b213eebcfd09bdfc/transformed/lifecycle-viewmodel-2.7.0/res
+com.abbusteps.app-lifecycle-runtime-ktx-2.7.0-52 /Users/ahmadmuaaz/.gradle/caches/transforms-3/fe1f06470bb5ca8c5d1a84a5111549b9/transformed/lifecycle-runtime-ktx-2.7.0/res
+com.abbusteps.app-pngs-53 /Users/ahmadmuaaz/Documents/steps couner/app/build/generated/res/pngs/debug
+com.abbusteps.app-resValues-54 /Users/ahmadmuaaz/Documents/steps couner/app/build/generated/res/resValues/debug
+com.abbusteps.app-packageDebugResources-55 /Users/ahmadmuaaz/Documents/steps couner/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.abbusteps.app-packageDebugResources-56 /Users/ahmadmuaaz/Documents/steps couner/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.abbusteps.app-merged_res-57 /Users/ahmadmuaaz/Documents/steps couner/app/build/intermediates/merged_res/debug
+com.abbusteps.app-debug-58 /Users/ahmadmuaaz/Documents/steps couner/app/src/debug/res
+com.abbusteps.app-main-59 /Users/ahmadmuaaz/Documents/steps couner/app/src/main/res

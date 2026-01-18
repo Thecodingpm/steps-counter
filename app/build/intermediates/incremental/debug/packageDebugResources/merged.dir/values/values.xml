@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#FF5722</color>
+    <color name="accent_blue">#2196F3</color>
+    <color name="accent_blue_light">#64B5F6</color>
+    <color name="accent_green">#4CAF50</color>
+    <color name="accent_primary">#FF5722</color>
+    <color name="accent_primary_light">#FF8A65</color>
+    <color name="background_card">#1A1A1A</color>
+    <color name="background_card_elevated">#242424</color>
+    <color name="background_dark">#0D0D0D</color>
+    <color name="background_light">#0D0D0D</color>
+    <color name="black">#000000</color>
+    <color name="calories_color">#FF5722</color>
+    <color name="distance_color">#2196F3</color>
+    <color name="divider">#2A2A2A</color>
+    <color name="error">#F44336</color>
+    <color name="pause_badge">#FF5722</color>
+    <color name="primary">#FF5722</color>
+    <color name="primary_blue">#2196F3</color>
+    <color name="primary_blue_dark">#1976D2</color>
+    <color name="primary_dark">#E64A19</color>
+    <color name="primary_light">#2A2A2A</color>
+    <color name="progress_indicator">#FF5722</color>
+    <color name="progress_track">#2A2A2A</color>
+    <color name="step_ring_background">#2A2A2A</color>
+    <color name="success">#4CAF50</color>
+    <color name="surface_light">#1A1A1A</color>
+    <color name="text_hint">#757575</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_primary_light">#FFFFFF</color>
+    <color name="text_secondary">#9E9E9E</color>
+    <color name="text_secondary_light">#9E9E9E</color>
+    <color name="text_tertiary">#616161</color>
+    <color name="text_white">#FFFFFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="warning">#FFC107</color>
+    <color name="white">#FFFFFF</color>
+    <string name="about">About</string>
+    <string name="about_description">Made with ❤️</string>
+    <string name="active">Active</string>
+    <string name="activity_recognition_permission_message">Step Counter needs permission to count your steps. Please grant the permission.</string>
+    <string name="app_name">Step Counter</string>
+    <string name="calories_burned">Calories</string>
+    <string name="cancel">Cancel</string>
+    <string name="close">Close</string>
+    <string name="daily_activity">Daily Activity</string>
+    <string name="daily_average_format">Daily average: %1$d</string>
+    <string name="daily_goal">Daily Goal</string>
+    <string name="daily_goal_description">Set your daily step goal</string>
+    <string name="daily_goal_settings">Daily Step Goal</string>
+    <string name="dark_theme">Dark</string>
+    <string name="detail">Detail</string>
+    <string name="distance_walked">Distance</string>
+    <string name="edit_steps">Edit steps</string>
+    <string name="enable_reminders">Enable Reminders</string>
+    <string name="enter_steps">Enter step count</string>
+    <string name="exercise">Exercise</string>
+    <string name="faq">FAQ</string>
+    <string name="goal_label">Goal</string>
+    <string name="goal_reached">🎉 Goal reached! Great job!</string>
+    <string name="grant_permission">Grant Permission</string>
+    <string name="history">History</string>
+    <string name="inactive">Inactive</string>
+    <string name="kcal">Kcal</string>
+    <string name="km">Km</string>
+    <string name="light_theme">Light</string>
+    <string name="menu">Menu</string>
+    <string name="mile">Mile</string>
+    <string name="min_label">Min</string>
+    <string name="monthly">Monthly</string>
+    <string name="more">More</string>
+    <string name="no">No</string>
+    <string name="no_data_available">No data available</string>
+    <string name="pause_resume">Pause/Resume</string>
+    <string name="paused">Paused</string>
+    <string name="permission_required">Permission Required</string>
+    <string name="reminder_description">Get gentle reminders to stay active</string>
+    <string name="report">Report</string>
+    <string name="reset_confirm">Are you sure you want to reset today\'s steps to 0?</string>
+    <string name="reset_steps">Reset steps</string>
+    <string name="service_notification_channel">Step Counter</string>
+    <string name="settings">Settings</string>
+    <string name="step_counter_running">Counting your steps...</string>
+    <string name="steps">steps</string>
+    <string name="steps_left_format">%,d steps left to reach your goal</string>
+    <string name="system_default">System Default</string>
+    <string name="theme">Theme</string>
+    <string name="time">Time</string>
+    <string name="today">Today</string>
+    <string name="today_stats">Today\'s Stats</string>
+    <string name="today_steps">Today\'s Steps</string>
+    <string name="turn_off">Turn off</string>
+    <string name="version">Version %1$s</string>
+    <string name="weekly">Weekly</string>
+    <string name="weekly_report">Weekly Report</string>
+    <string name="yes">Yes</string>
+    <style name="AlertDialogTheme" parent="ThemeOverlay.MaterialComponents.Dialog.Alert">
+        <item name="colorPrimary">@color/accent_primary</item>
+        <item name="android:background">@color/background_card</item>
+        <item name="android:textColor">@color/text_white</item>
+        <item name="android:textColorPrimary">@color/text_white</item>
+        <item name="android:textColorSecondary">@color/text_secondary</item>
+    </style>
+    <style name="AppBarStyle" parent="Widget.MaterialComponents.AppBarLayout.Primary">
+        <item name="android:background">@color/background_dark</item>
+        <item name="android:elevation">0dp</item>
+    </style>
+    <style name="BottomSheetDialogTheme" parent="Theme.MaterialComponents.BottomSheetDialog">
+        <item name="bottomSheetStyle">@style/BottomSheetStyle</item>
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+    <style name="BottomSheetShapeAppearance" parent="">
+        <item name="cornerSizeTopLeft">24dp</item>
+        <item name="cornerSizeTopRight">24dp</item>
+    </style>
+    <style name="BottomSheetStyle" parent="Widget.MaterialComponents.BottomSheet.Modal">
+        <item name="shapeAppearanceOverlay">@style/BottomSheetShapeAppearance</item>
+        <item name="backgroundTint">@color/background_card_elevated</item>
+    </style>
+    <style name="TabStyle" parent="Widget.MaterialComponents.TabLayout">
+        <item name="tabIndicatorColor">@color/accent_primary</item>
+        <item name="tabIndicatorHeight">3dp</item>
+        <item name="tabSelectedTextColor">@color/white</item>
+        <item name="tabTextColor">@color/text_secondary</item>
+        <item name="tabRippleColor">@color/accent_primary</item>
+        <item name="android:background">@color/background_dark</item>
+    </style>
+    <style name="Theme.AbbuSteps" parent="Theme.MaterialComponents.NoActionBar">
+        <item name="colorPrimary">@color/accent_primary</item>
+        <item name="colorPrimaryVariant">@color/accent_primary</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/accent_primary</item>
+        <item name="colorSecondaryVariant">@color/accent_primary</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="android:statusBarColor">@color/background_dark</item>
+        <item name="android:navigationBarColor">@color/background_dark</item>
+        <item name="android:windowBackground">@color/background_dark</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+    <style name="ToolbarTitle" parent="TextAppearance.MaterialComponents.Headline6">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+</resources>

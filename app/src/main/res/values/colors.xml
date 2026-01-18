@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark Theme Background -->
+    <color name="background_dark">#0D0D0D</color>
+    <color name="background_card">#1A1A1A</color>
+    <color name="background_card_elevated">#242424</color>
+    
+    <!-- Primary Orange Accent (like reference) -->
+    <color name="accent_primary">#FF5722</color>
+    <color name="accent_primary_light">#FF8A65</color>
+    
+    <!-- Secondary Blue -->
+    <color name="accent_blue">#2196F3</color>
+    <color name="accent_blue_light">#64B5F6</color>
+    
+    <!-- Text Colors -->
+    <color name="text_white">#FFFFFF</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#9E9E9E</color>
+    <color name="text_tertiary">#616161</color>
+    <color name="text_hint">#757575</color>
+    
+    <!-- Status Colors -->
+    <color name="success">#4CAF50</color>
+    <color name="warning">#FFC107</color>
+    <color name="error">#F44336</color>
+    
+    <!-- Step Counter Specific -->
+    <color name="progress_track">#2A2A2A</color>
+    <color name="progress_indicator">#FF5722</color>
+    <color name="pause_badge">#FF5722</color>
+    
+    <!-- Common -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="divider">#2A2A2A</color>
+    
+    <!-- Legacy compatibility -->
+    <color name="primary">#FF5722</color>
+    <color name="primary_dark">#E64A19</color>
+    <color name="primary_light">#2A2A2A</color>
+    <color name="accent">#FF5722</color>
+    <color name="primary_blue">#2196F3</color>
+    <color name="primary_blue_dark">#1976D2</color>
+    <color name="accent_green">#4CAF50</color>
+    <color name="text_primary_light">#FFFFFF</color>
+    <color name="text_secondary_light">#9E9E9E</color>
+    <color name="background_light">#0D0D0D</color>
+    <color name="step_ring_background">#2A2A2A</color>
+    <color name="calories_color">#FF5722</color>
+    <color name="distance_color">#2196F3</color>
+    <color name="surface_light">#1A1A1A</color>
+</resources>
